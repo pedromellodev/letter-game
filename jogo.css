@@ -1,0 +1,303 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@500&display=swap');
+
+body{
+    width: 100vh;
+    height: 100vh;
+    background: linear-gradient(45deg, rgb(248, 246, 243), rgb(255, 241, 234));
+}
+
+
+.tutorial{
+    background-color: rgb(255, 255, 255);
+    height: 40px;
+    width: 50px;
+    color: rgb(39, 34, 44);
+    text-align: center;
+    border-radius: 9px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 2px 2px;
+    color: black;
+    transition: ease-in-out 0.3s;
+    margin: 20px 10px;
+}
+
+div{
+    transition: ease-in-out 0.3s;
+    border-radius: 6px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 2px 2px;
+    background-color: rgb(255, 255, 255);
+}
+
+div:hover{
+    transform: scale(1.1);
+}
+
+a{
+    font-family: 'Inter', sans-serif;
+    text-decoration: none;
+    position: relative;
+    top: 15%;
+    font-size: 25px;
+    color: brown;
+}
+
+.lost3{
+    color: blueviolet;
+}
+
+.atos{
+    color: rgb(226, 43, 98);
+}
+
+.start{
+    background-color: rgb(255, 255, 255);
+    height: 50px;
+    width: 120px;
+    position: absolute;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 2px 2px;
+    margin-top: 1px;
+    text-align: center;
+    border-radius: 10px;
+    margin-left: 510px;
+}
+
+.fim{
+    height: 50px;
+    width: 50px;
+    position: relative;
+    margin-top: 10px;
+    color: rgb(255, 240, 240);
+    text-align: center;
+    margin-left: 450px;
+    margin-bottom: 5px;
+}
+.q2{
+    height: 50px;
+    width: 50px;
+    position: relative;
+    border: solid 2px;
+    margin-top: 3px;
+    color: aliceblue;
+    font-size: 30px;
+    text-align: center;
+    border-radius: 6px;
+    margin-left: 450px;
+    margin-bottom: 5px;
+}
+.q3{
+    height: 50px;
+    width: 50px;
+    position: relative;
+    border: solid 2px;
+    margin-top: 3px;
+    color: aliceblue;
+    font-size: 30px;
+    text-align: center;
+    border-radius: 6px;
+    margin-left: 450px;
+    margin-bottom: 5px;
+}
+.q4{
+    height: 50px;
+    width: 50px;
+    position: relative;
+    border: solid 2px;
+    margin-top: 3px;
+    color: aliceblue;
+    font-size: 30px;
+    text-align: center;
+    border-radius: 6px;
+    margin-left: 450px;
+    margin-bottom: 5px;
+}
+.q5{
+    height: 50px;
+    width: 50px;
+    position: relative;
+    margin-top: 3px;
+    text-align: center;
+    font-size: 15px;
+    border-radius: 6px;
+    margin-left: 450px;
+    margin-bottom: 5px;
+}
+.q6{
+    height: 50px;
+    width: 50px;
+    position: relative;
+    border: solid 2px;
+    margin-top: 3px;
+    color: aliceblue;
+    font-size: 30px;
+    text-align: center;
+    border-radius: 6px;
+    margin-left: 450px;
+    margin-bottom: 5px;
+}
+.q7{
+    height: 50px;
+    width: 50px;
+    position: relative;
+    border: solid 2px;
+    margin-top: 3px;
+    color: aliceblue;
+    font-size: 30px;
+    text-align: center;
+    border-radius: 6px;
+    margin-left: 450px;
+    margin-bottom: 5px;
+}
+.q8{
+    height: 50px;
+    width: 50px;
+    position: absolute;
+    border: solid 2px;
+    margin-top: 3px;
+    color: aliceblue;
+    text-align: center;
+    font-size: 30px;
+    border-radius: 6px;
+    margin-left: 450px;
+}
+
+.q9{
+    height: 50px;
+    width: 180px;
+    position: relative;
+    border: solid 2px;
+    color: aliceblue;
+    font-size: 15px;
+    text-align: center;
+    border-radius: 6px;
+    margin-left: 510px;
+}
+.q10{
+    height: 50px;
+    width: 50px;
+    position: absolute;
+    border: solid 2px;
+    color: aliceblue;
+    font-size: 30px;
+    text-align: center;
+    margin-left: 640px;
+    border-radius: 6px;
+    margin-bottom: 2px;
+}
+
+.q11{
+    height: 50px;
+    width: 50px;
+    position: absolute;
+    border: solid 2px;
+    color: aliceblue;
+    font-size: 30px;
+    text-align: center;
+    margin-left: 700px;
+    border-radius: 6px;
+    margin-top: 50px;
+}
+
+.q12{
+    height: 50px;
+    width: 50px;
+    position: absolute;
+    border: solid 2px;
+    color: aliceblue;
+    font-size: 30px;
+    text-align: center;
+    margin-left: 740px;
+    margin-top: 110px;
+    border-radius: 6px;
+}
+
+.q13{
+    height: 50px;
+    width: 50px;
+    position: absolute;
+    border: solid 2px;
+    color: aliceblue;
+    font-size: 30px;
+    text-align: center;
+    margin-left: 690px;
+    border-radius: 6px;
+}
+
+.q14{
+    height: 50px;
+    width: 50px;
+    position: absolute;
+    border: solid 2px;
+    color: aliceblue;
+    font-size: 30px;
+    text-align: center;
+    margin-left: 740px;
+    border-radius: 6px;
+}
+
+.q15{
+    height: 50px;
+    width: 50px;
+    position: absolute;
+    border: solid 2px;
+    font-size: 30px;
+    text-align: center;
+    margin-left: 740px;
+    border-radius: 6px;
+    margin-top: 170px;
+}
+
+.q16{
+    height: 50px;
+    width: 50px;
+    position: absolute;
+    border: solid 2px;
+    color: aliceblue;
+    font-size: 30px;
+    text-align: center;
+    margin-left: 740px;
+    border-radius: 6px;
+    margin-top: 232px;
+}
+
+
+button {
+    background-color: rgb(255, 255, 255);
+    border-radius: 6px;
+    color: rgb(0, 0, 0);
+    padding: 10px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 2px 2px;
+    text-transform: uppercase;
+    width: 180px;
+    cursor: pointer;
+    margin-left: 980px;
+    position: absolute;
+    font-size: 15px;
+    margin-top: 320px;
+    transition: ease-in-out 0.3s;
+  }
+
+  button:hover{
+    transform: scale(1.1);
+}
+
+  #placeholder {
+    height: 100px;
+    padding: 50px;
+    margin: 50px auto;
+    border: 1px solid gray;
+    border-radius: 50%;  
+    font-size:80px;
+    position: absolute;
+    margin-left: 970px;
+    width: 100px;
+    margin-top: 90px;
+    background: url("assets/Nike.jpg");
+    text-align: center;
+    color: rgba(255, 255, 255, 0.534);
+  }
+
+/* @font-face {
+    font-family: pedra;
+    src: url("assets/hulk.ttf")
+    format('truetype');
+    }
+*/
